@@ -60,7 +60,7 @@ noBtn.addEventListener("mouseover", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Yippeeee!";
+    title.textContent = "Yeaaii, vaise bhi jaane kon de rha!";
 
     catImg.src = "cat_dance.gif";
 
